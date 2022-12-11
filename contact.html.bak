@@ -67,9 +67,9 @@
     
     <div class="container">
         <div class="mbr-section-head">
-            <h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-5">
+            <h5 class="mbr-section-subtitle mbr-fonts-style mb-3 display-5">
                 <strong>Contacts</strong>
-            </h3>
+            </h5>
             
         </div>
         <div class="row justify-content-center mt-4">
