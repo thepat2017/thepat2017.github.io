@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>PAUL REVIEWS</title>
+</head>
+<body style="background-color:#85C1E9;">
+<style>
+p {text-align: center;}
+h3 {text-align: center;}
+</style>
+<h1>Paul "Lovely Paul" Jackson Movie Reviews</h1>
+<p>Ahoy mateys! Normally, I do pirate themed reviews of movies like pirates of the carribean in December and stuff like that.
+ Today, though, I am going to be doing some Christmas Movie Reviews! Here are some good Christmas Movie reviews, take a look.</p>
+ <h2>About Me</h2>
+ <img src="assets/images/paul.jpg">
+ <h3>My name is Paul but you can call me Lovely Paul, as that is my nickname. I am 48 years old, and I have been watching movies all my life. Myfavoritre movies are movies with pirates, or movies that
+ have soldiers in them, or comedy movies like Adam Sandler or the Spongebob movie. A lot of people tell me I am the best movie reviewer and have a "wizards eye" for movies, including my friend and colleuge from work,
+ Steven Speelberg. Yes I know him and we are friends.
+ <br>
+ <br>
+ Contact me at jacksonpaulmoviereview2@gmail.com</h3>
+ <h2>Movie Reviews</h2>
+<a href="phasmite.com/paulpark.html">review of Jurassic Park</a>
+<br>
+<a href="phasmite.com/paulclick.html">review of Click</a>
+<br>
+<a href="phasmite.com/paulwhnh.html">review of Wolf House Nut-House</a>
+<br>
+<a href="phasmite.com/paulchristmas.html">review of Charlie Brown Christmas</a>
+</body>
+</html>
